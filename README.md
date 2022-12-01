@@ -1,5 +1,5 @@
 # *DiffG-RL*: Leveraging Difference between State and Common Sense
-This repository provides the official implementation of the [*DiffG-RL*: Leveraging Difference between State and Common Sense]() by [Tsunehiko Tanaka](https://tsunehiko.github.io/), [Daiki Kimura](http://ibm.biz/daiki-kimura) and [Michiaki Tatsubori](https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH). The codebase builds upon [TWC](https://github.com/IBM/commonsense-rl).
+This repository provides the official implementation of the [*DiffG-RL*: Leveraging Difference between State and Common Sense](https://arxiv.org/abs/2211.16002) by [Tsunehiko Tanaka](https://tsunehiko.github.io/), [Daiki Kimura](http://ibm.biz/daiki-kimura) and [Michiaki Tatsubori](https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH). The codebase builds upon [TWC](https://github.com/IBM/commonsense-rl).
 
 <div align="center">
   <img src="./teaser.png" width=400>
