@@ -80,7 +80,7 @@ If you use our code, please cite us by including the following articles in your 
 ```
 @inproceedings{tanaka2022diffgrl,
     title={DiffG-RL: Leveraging Difference between State and Common Sense},
-    author={Tanaka Tsunehiko, Kimura Daiki and Tatsubori Michiaki},
+    author = {Tanaka, Tsunehiko and Kimura, Daiki and Tatsubori, Michiaki},
     year={2022},
     booktitle={Findings of the Association for Computational Linguistics: EMNLP 2022}
 }
